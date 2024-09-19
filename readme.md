@@ -1,4 +1,5 @@
 Event Planning Management System
+https://drive.google.com/file/d/1f4o8jBO7Y9ADgDgz14B915TWfyVheMtN/view?usp=sharing
 This is a Python-based event planning management system designed to help event planners and artists manage events, performances, and attendance. The system aims to solve the problem of confusion and frustration among fans and artists by providing a centralized database for event planning.
 
 Features
